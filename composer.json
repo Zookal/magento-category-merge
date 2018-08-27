@@ -1,5 +1,5 @@
 {
-    "name": "zookal-mkleine-magento-category-merge",
+    "name": "zookal/mkleine-magento-category-merge",
     "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Category Merge Magento Extension",
